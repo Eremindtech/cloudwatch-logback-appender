@@ -15,11 +15,11 @@
 			<url>https://opensource.org/licenses/ISC</url>
 		</license>
 	</licenses>
-	<parent>
+	<!--parent>
 		<groupId>org.sonatype.oss</groupId>
 		<artifactId>oss-parent</artifactId>
 		<version>5</version>
-	</parent>
+	</parent-->
 	<properties>
 		<disableDoclint />
 		<!-- optional dependencies -->
