@@ -30,9 +30,9 @@
 		<easymock-version>3.4</easymock-version>
 	</properties>
 	<scm>
-		<url>https://github.com/j256/cloudwatch-logback-appender</url>
+		<url>https://github.com/Eremindtech/cloudwatch-logback-appender</url>
 		<connection>scm:git:ssh://git@github.com/Eremindtech/cloudwatch-logback-appender.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/j256/cloudwatch-logback-appender.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/Eremindtech/cloudwatch-logback-appender.git</developerConnection>
 	</scm>
 	<developers>
 		<developer>
